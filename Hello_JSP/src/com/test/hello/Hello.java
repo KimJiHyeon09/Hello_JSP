@@ -8,6 +8,12 @@ public class Hello {
 		// 012456:hotfix edit by KJH
 		System.out.println("hotfix edit/modify");
 		// 012456:end
+		
+		// 023659: hotfix edit by KJH
+		System.out.println("지각하지 맙시다");
+		// 023659: end
+		
+		
 	}
 
 }
