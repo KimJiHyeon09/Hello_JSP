@@ -11,6 +11,11 @@ public class Hello {
 		
 		// 0215238:origin/master edit by KJH
 		System.out.println("GitGHub edit");
+		
+		// 031524: local/master edit by KJH
+		System.out.println("local edit 1234");
+		// 031524:end
+		
 	}
 
 }
